@@ -1,6 +1,7 @@
 # geneformer-keras
 Reimplementing GeneFormer in Keras
 
-Run.ipynb - pretrain the model
-Preprocess.ipynb - load and tokenize the finetuning data
-finetuning.ipynb - train the finetuning model.
+run.ipynb - pretrain the model
+preprocess.ipynb - load and tokenize the finetuning data
+finetuning.ipynb - train the finetuning model
+baseline.ipynb - compare accuracy to baseline machine learning methods
